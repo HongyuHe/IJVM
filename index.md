@@ -1,5 +1,5 @@
 # IJVM Project
-![](/ijvm_art.png)
+![](ijvm_ui.png)
 
 ## 1. Summary
  - Time: 3 weeks
